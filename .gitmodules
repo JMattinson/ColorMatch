@@ -1,0 +1,6 @@
+[submodule "Match\\Assets\\Tools"]
+	path = Match\\Assets\\Tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "Match/Assets/Tools"]
+	path = Match/Assets/Tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
