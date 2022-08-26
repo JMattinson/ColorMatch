@@ -4,6 +4,3 @@
 [submodule "Match/Assets/Tools"]
 	path = Match/Assets/Tools
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
-[submodule "JTools"]
-	path = JTools
-	url = https://github.com/JMattinson/Tools
