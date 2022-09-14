@@ -1,6 +1,4 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -8,7 +6,7 @@ public class MatchBehavior : MonoBehaviour
 {
     public ID idObj;
     public UnityEvent matchEvent, noMatchEvent,noMatchDelayedEvent;
-
+    
     private IEnumerator OnTriggerEnter(Collider other)
     {
         var tempObj = other.GetComponent<IDContainerBehavior>();
