@@ -27,8 +27,7 @@ public class MonoEventsBehavior : MonoBehaviour
     }
     void DisablePing()
     {
-        Debug.Log (gameObject.name+" Disabled! "); 
-        
+
     }
 
    
