@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
@@ -13,7 +12,7 @@ public class CoroutineBehavior : MonoBehaviour
     private WaitForSeconds wfsObj;
     private WaitForFixedUpdate wffuObj;
 
-    private void Start()
+    private void Awake()
     {
         wfsObj = new WaitForSeconds(seconds);
         wffuObj = new WaitForFixedUpdate();
