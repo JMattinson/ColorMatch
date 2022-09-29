@@ -9,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70a0b31185ef4f04aa0080b7fcd3bd53, type: 3}
-  m_Name: V3A
+  m_Script: {fileID: 11500000, guid: 62c1e1f785eb041459ea034e9e240b5a, type: 3}
+  m_Name: CallAnimEndRing
   m_EditorClassIdentifier: 
-  value: {x: 2, y: 5, z: 0}
